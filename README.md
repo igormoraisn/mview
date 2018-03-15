@@ -7,11 +7,12 @@ Steps to configurate your workspace:
 
     qt4
     qtcreator
-    pbrt-v2 ()
+    pbrt-v2 (github.com/mmp/pbrt-v2)
 
 2 - Run config.sh
 
 3 - Import MView into QTCreator
 
 4 - Run the project
-    
+
+Have Fun :)
